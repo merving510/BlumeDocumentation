@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>oxy_ex-1/TopicTree/PDFLinks.html</loc>
-      <lastmod>2024-02-08T03:37:28Z</lastmod>
+      <lastmod>2024-02-08T05:37:48Z</lastmod>
    </url>
    <url>
       <loc>oxy_ex-1/TopicTree/RNPDFLinks.html</loc>
-      <lastmod>2024-02-08T03:37:28Z</lastmod>
+      <lastmod>2024-02-08T05:37:48Z</lastmod>
    </url>
    <url>
       <loc>oxy_ex-1/TopicTree/GenericPDFLinks.html</loc>
-      <lastmod>2024-02-08T03:37:28Z</lastmod>
+      <lastmod>2024-02-08T05:37:48Z</lastmod>
+   </url>
+   <url>
+      <loc>oxy_ex-1/TopicTree/PSGImplementationGuide/LogisticsFeatureConfiguration.html</loc>
+      <lastmod>2024-02-08T05:37:48Z</lastmod>
    </url>
 </urlset>
