@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
    <appContext helpID="PDFLinks" path="oxy_ex-1/TopicTree/PDFLinks.html"/>
+   <appContext helpID="RNPDFLinks" path="oxy_ex-1/TopicTree/RNPDFLinks.html"/>
 </map>

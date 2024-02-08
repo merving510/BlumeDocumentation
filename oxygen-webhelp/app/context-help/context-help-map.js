@@ -1,1 +1,1 @@
-var contextHelpMap = [{"appname":"", "appid":"PDFLinks", "path":"oxy_ex-1/TopicTree/PDFLinks.html"}];
+var contextHelpMap = [{"appname":"", "appid":"PDFLinks", "path":"oxy_ex-1/TopicTree/PDFLinks.html"},{"appname":"", "appid":"RNPDFLinks", "path":"oxy_ex-1/TopicTree/RNPDFLinks.html"}];
