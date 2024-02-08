@@ -2,4 +2,5 @@
 <map>
    <appContext helpID="PDFLinks" path="oxy_ex-1/TopicTree/PDFLinks.html"/>
    <appContext helpID="RNPDFLinks" path="oxy_ex-1/TopicTree/RNPDFLinks.html"/>
+   <appContext helpID="GenericPDFLinks" path="oxy_ex-1/TopicTree/GenericPDFLinks.html"/>
 </map>

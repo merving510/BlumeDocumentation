@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>oxy_ex-1/TopicTree/PDFLinks.html</loc>
-      <lastmod>2024-02-08T07:25:26Z</lastmod>
+      <lastmod>2024-02-08T02:06:24Z</lastmod>
    </url>
    <url>
       <loc>oxy_ex-1/TopicTree/RNPDFLinks.html</loc>
-      <lastmod>2024-02-08T07:25:26Z</lastmod>
+      <lastmod>2024-02-08T02:06:24Z</lastmod>
+   </url>
+   <url>
+      <loc>oxy_ex-1/TopicTree/GenericPDFLinks.html</loc>
+      <lastmod>2024-02-08T02:06:24Z</lastmod>
    </url>
 </urlset>
