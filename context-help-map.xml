@@ -3,4 +3,6 @@
    <appContext helpID="PDFLinks" path="oxy_ex-1/TopicTree/PDFLinks.html"/>
    <appContext helpID="RNPDFLinks" path="oxy_ex-1/TopicTree/RNPDFLinks.html"/>
    <appContext helpID="GenericPDFLinks" path="oxy_ex-1/TopicTree/GenericPDFLinks.html"/>
+   <appContext helpID="LogisticsFeatureConfiguration"
+               path="oxy_ex-1/TopicTree/PSGImplementationGuide/LogisticsFeatureConfiguration.html"/>
 </map>
