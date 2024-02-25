@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="PDFLinks" path="oxy_ex-1/TopicTree/PDFLinks.html"/>
+   <appContext helpID="RNPDFLinks" path="oxy_ex-1/TopicTree/RNPDFLinks.html"/>
+   <appContext helpID="GenericPDFLinks" path="oxy_ex-1/TopicTree/GenericPDFLinks.html"/>
+   <appContext helpID="LogisticsFeatureConfiguration"
+               path="oxy_ex-1/TopicTree/PSGImplementationGuide/LogisticsFeatureConfiguration.html"/>
+   <appContext helpID="AssetManagementPDF"
+               path="oxy_ex-1/TopicTree/AssetManagementPDF.html"/>
+   <appContext helpID="APIPDFLinks" path="oxy_ex-1/TopicTree/APIPDFLinks.html"/>
+</map>
